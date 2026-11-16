@@ -1,0 +1,32 @@
+body {
+	background-color: #f0fff0;
+	font-family: Arial;
+
+}
+
+hr {
+	background-color: #c0c0c0;
+	height: 5px;
+}
+
+marquee {
+	color: green;
+}
+
+#header {
+	color: green;
+	text-align: center;
+	size: 8;
+	padding: 14;
+	border: 3px gray;
+	margin: 10px;
+	font-family: merriweather;
+}
+
+.image {
+	height: 508px;
+}
+
+.smallImage {
+	height: 300px
+}
